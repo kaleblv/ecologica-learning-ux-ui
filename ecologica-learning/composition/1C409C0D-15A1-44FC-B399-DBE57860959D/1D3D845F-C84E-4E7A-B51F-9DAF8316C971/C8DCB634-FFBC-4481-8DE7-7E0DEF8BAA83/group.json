@@ -1,0 +1,128 @@
+{
+  "_class": "group",
+  "do_objectID": "C8DCB634-FFBC-4481-8DE7-7E0DEF8BAA83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FA80896-31F6-4662-BF21-4C6B3816752A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE507437-49EC-487A-B5DD-A7B2988EA144",
+    "height": 263,
+    "width": 694,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FDB3983E-752B-4E2A-A279-91951A6072F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02CA60E0-18B9-4F1A-AE9A-16E3459D4606"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E126178-1426-45C4-97A8-B30891C5B74B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C3E192F8-9072-41B0-956D-59976CB1F804"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "912195C6-E14A-473A-9F99-1F4483D0F646"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6944623F-3E01-41BE-BAC8-9FE15C8EC13B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51B32C8B-F38E-4B04-A8AA-77277C1F9C12"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B759FBB3-B1E3-48E3-ABCF-DABE329DA57F"
+    },
+    {
+      "class": "group",
+      "id": "A8661275-5822-430B-B2D9-C960B54F0104"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FC119641-9BD6-48DF-BB70-7939FBEC56F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D6086C1-B158-42B7-B921-4F9F65933A3D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C7894C8-CF01-4A35-8D95-BEC84F5309A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "91037CB6-E276-45B1-ACD8-8E0A3F306B40"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F681AAE-37D7-40A4-A40E-4F7A2AF8C7ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B6314AB-A81E-4E50-B387-B86B619EF458"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "56E2A875-22FF-4106-9877-4A1D708C0819"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30278D94-704E-495E-9729-862B19D4C011"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F51CC3B-AEB2-4365-B70F-EB774ADCDBFF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3A5B515-FEC9-4088-B037-CF5D901CE7FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F13241E-1A3D-4BAB-AFCD-7CD426B3C710"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BACE7D8E-25D3-417A-B9E9-D1C953D5BCDB"
+    }
+  ],
+  "name": "logo ecologica",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3113E3D8-2F2A-428E-9DE4-6A3378C38C1A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

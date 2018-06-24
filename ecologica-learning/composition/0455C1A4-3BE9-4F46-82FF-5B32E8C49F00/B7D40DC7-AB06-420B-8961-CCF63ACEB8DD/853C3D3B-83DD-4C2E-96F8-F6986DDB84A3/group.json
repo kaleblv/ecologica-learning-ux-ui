@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "do_objectID": "853C3D3B-83DD-4C2E-96F8-F6986DDB84A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33E7400D-ED65-43E0-9245-EBBBD610210D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42340EAC-403B-4CA7-BD38-AA91689A1E19",
+    "height": 372,
+    "width": 512,
+    "x": 0,
+    "y": 748
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "E494A308-7DB1-4601-9437-957B79107F69"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20EA1A43-1058-40E6-A92D-65E024DD01C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD277001-BF9F-4BFF-8BD7-48D045116165"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32559F16-E24B-49F2-BA74-44DF709C6605"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1867EEB3-1578-4837-8933-EB1E6DDD153F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17D33851-081F-43E2-8F20-89FAEF0F09F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F97DE2B-8DE5-4D0A-ADF4-FA527A864F61"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE6F43EF-A4D4-47A7-8BC5-2C67F869AB86"
+    },
+    {
+      "class": "group",
+      "id": "F765D76A-CB30-424B-9784-14B8CFAF4470"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "409D560F-1AC2-4C5A-A151-335413467A81",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2,
+      "type": 0
+    },
+    "do_objectID": "60BE4C78-1564-47CB-84FC-308FCC164E3C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
