@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "28E7197D-D336-45D5-BE71-FCFFF72313A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C73D0672-2346-4F94-BE2F-4FF045E17F94",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C91BBD8-94D2-462C-BBAC-A62F6FA37B92",
+    "height": 41.51724137931033,
+    "width": 78.72514619883032,
+    "x": 344.6081871345029,
+    "y": 10.37931034482758
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "server action copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "420A0ECB-427D-4053-8BEE-E18519B4FF9E",
+      "overrideName": "1E98D00E-ED9C-41CB-8464-50A67E82B73D_stringValue",
+      "value": "Form Validation"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5599999999999999,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "63CDB943-3A64-4E75-B473-5D412C58B86B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.600000000000001,
+      "type": 0
+    },
+    "do_objectID": "DFA7E573-C1FE-4158-83DB-B7CD933C85C0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4CF0AC8E-A764-4377-A646-06959BF01937",
+  "verticalSpacing": 0
+}

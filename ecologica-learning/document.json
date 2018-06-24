@@ -33,7 +33,8 @@
     "version": 103
   },
   "pages": [
-    "composition"
+    "composition",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

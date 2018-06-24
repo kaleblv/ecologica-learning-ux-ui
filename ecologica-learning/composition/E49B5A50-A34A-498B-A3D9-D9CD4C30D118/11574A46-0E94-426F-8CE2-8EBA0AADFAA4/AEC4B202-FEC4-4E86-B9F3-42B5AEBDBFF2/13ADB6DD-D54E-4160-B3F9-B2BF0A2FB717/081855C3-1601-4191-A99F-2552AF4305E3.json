@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "081855C3-1601-4191-A99F-2552AF4305E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "759D0FBF-C8C2-4DE8-8CEC-08C427BD3A19",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC89880B-4AD7-44AA-BF67-3FCCBDB5F47E",
+    "height": 41.51724137931032,
+    "width": 65.3567251461987,
+    "x": 261.4269005847953,
+    "y": 68.20689655172409
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "user action copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "297B7AEE-B401-4850-9E14-C6B98776DA65",
+      "overrideName": "4E34BB45-DC63-4AC2-A617-D18D359FBA6E_stringValue",
+      "value": "Fill With Invalid Inputs"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5599999999999999,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "311AD6E6-9FB2-46B6-B732-A4981E83B5AB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.600000000000001,
+      "type": 0
+    },
+    "do_objectID": "BABC4584-FAEF-4C3A-8F59-E440CE876CA8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "170BBAD3-43A7-4D60-98DC-BE6048983B92",
+  "verticalSpacing": 0
+}

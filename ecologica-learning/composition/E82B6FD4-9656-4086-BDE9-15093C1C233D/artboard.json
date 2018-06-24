@@ -29,10 +29,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5686,
+    "height": 5192,
     "width": 1200,
     "x": 377,
-    "y": 1382
+    "y": 1324
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -72,7 +72,7 @@
       "id": "568E2EDA-C543-4ADB-976B-2012351BD7B0"
     }
   ],
-  "name": "inicio",
+  "name": "02-inner-pages",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

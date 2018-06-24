@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1121,
-    "width": 813,
+    "height": 1029,
+    "width": 811,
     "x": 0,
     "y": 0
   },
@@ -23,15 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
       "id": "A69A1A3A-3865-42D3-92DB-293030011ACE"
-    },
-    {
-      "class": "text",
-      "id": "54DBF17F-C18C-48AD-BCE1-E514F1C97A18"
     }
   ],
   "name": "Group 8",

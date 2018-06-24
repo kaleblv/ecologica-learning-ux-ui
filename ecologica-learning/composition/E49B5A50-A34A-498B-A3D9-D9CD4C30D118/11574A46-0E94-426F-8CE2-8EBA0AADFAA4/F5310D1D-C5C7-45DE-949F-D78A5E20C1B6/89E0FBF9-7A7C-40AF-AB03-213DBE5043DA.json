@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "89E0FBF9-7A7C-40AF-AB03-213DBE5043DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2265AAE-6BBF-407A-9C7B-A9A4BE040368",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32010E93-933B-4940-8C80-0F7E7BF410B5",
+    "height": 51,
+    "width": 79,
+    "x": 0,
+    "y": 30
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "start copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23428E19-DB98-4F4A-8822-0DC20D91611F",
+      "overrideName": "2F2F6919-E0B4-4375-B8CE-B800C0B2AED3_stringValue",
+      "value": "Open Courses Page"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5599999999999999,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "865EADE8-9A3A-4157-BB26-A2BCA440401D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.600000000000001,
+      "type": 0
+    },
+    "do_objectID": "0A6E4327-F537-4DE5-B291-E49A66AEDAB2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "97D73358-60D1-4A43-90AB-2A37D00C519B",
+  "verticalSpacing": 0
+}

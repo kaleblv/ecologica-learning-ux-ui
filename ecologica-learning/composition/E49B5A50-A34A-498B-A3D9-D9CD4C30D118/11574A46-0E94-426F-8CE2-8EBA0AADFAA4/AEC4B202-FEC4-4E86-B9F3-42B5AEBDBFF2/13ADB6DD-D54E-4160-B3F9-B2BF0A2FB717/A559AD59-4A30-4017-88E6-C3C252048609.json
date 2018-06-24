@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A559AD59-4A30-4017-88E6-C3C252048609",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A301E83-831D-4C0E-961C-D034B2EBF62C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52310581-5FEE-49B7-BB00-331E25324D3A",
+    "height": 61.53448275862068,
+    "width": 61.6432748538009,
+    "x": 441.9005847953217,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "end flow copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8A1E6B8-C440-4A4B-8DEF-EC6D27AA8E81",
+      "overrideName": "7AE6FA4B-20BD-499C-AE07-E17EDBCD0BD3_stringValue",
+      "value": "Form Confirmation"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5599999999999999,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "412DA48D-CBC5-4DCA-916C-3B0EFB4C334E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.600000000000001,
+      "type": 0
+    },
+    "do_objectID": "B323323C-DCD8-4DAC-A9B3-8E2F42EEF5F9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "86C46355-F139-4AC2-B642-08144142BB2F",
+  "verticalSpacing": 0
+}

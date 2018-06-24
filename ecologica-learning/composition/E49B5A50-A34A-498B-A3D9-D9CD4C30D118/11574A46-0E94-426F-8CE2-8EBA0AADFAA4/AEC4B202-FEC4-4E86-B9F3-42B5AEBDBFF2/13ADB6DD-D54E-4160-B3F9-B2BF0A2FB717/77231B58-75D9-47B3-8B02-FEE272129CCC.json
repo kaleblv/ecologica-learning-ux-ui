@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "77231B58-75D9-47B3-8B02-FEE272129CCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "611084EF-3E84-4108-94CA-EF0CA72C1F1A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE743F5B-ECC8-4B7A-B9AA-CEC7B4DA322D",
+    "height": 41.51724137931033,
+    "width": 65.35672514619858,
+    "x": 178.2456140350879,
+    "y": 35.58620689655169
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "user action copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF6069F0-6499-48ED-9DF6-6BA5E2202CA8",
+      "overrideName": "D58317C6-6368-41A6-87A8-C2085C2016B7_stringValue",
+      "value": "Course Request Form"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5599999999999999,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7D1A32FE-E022-45AC-9FC6-F45646E24F90",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.600000000000001,
+      "type": 0
+    },
+    "do_objectID": "BFE4166C-2A16-4C6F-84FF-9CE7EEB0AA08",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4A8C8680-5EBF-4584-91A6-B7E5DB3A5509",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B2398617-D77B-423E-8752-79836A471798",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0463F0D-BDE1-440B-AC03-255C3952217B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2B2F3A2-3B5D-47D6-8CAB-B5C96A1458A6",
+    "height": 41.51724137931038,
+    "width": 63.12865497076019,
+    "x": 0,
+    "y": 36.32758620689652
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "start copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23428E19-DB98-4F4A-8822-0DC20D91611F",
+      "overrideName": "2F2F6919-E0B4-4375-B8CE-B800C0B2AED3_stringValue",
+      "value": "Course Detail"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5599999999999999,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AA1D63D8-6565-4A10-813C-09C3B4577E09",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.600000000000001,
+      "type": 0
+    },
+    "do_objectID": "A5B3E96B-B841-4984-A151-A97ED1A64EF4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "97D73358-60D1-4A43-90AB-2A37D00C519B",
+  "verticalSpacing": 0
+}

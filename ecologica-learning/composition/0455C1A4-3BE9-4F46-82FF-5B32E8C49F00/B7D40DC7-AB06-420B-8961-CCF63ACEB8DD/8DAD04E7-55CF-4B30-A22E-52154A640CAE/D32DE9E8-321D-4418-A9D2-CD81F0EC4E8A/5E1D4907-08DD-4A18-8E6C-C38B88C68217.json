@@ -1,0 +1,82 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "5E1D4907-08DD-4A18-8E6C-C38B88C68217",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B2FCB95-871A-46B4-AEC8-25E7366510E7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B47C4EF1-8A97-4B1C-B7CE-9F824CD74497",
+    "height": 690.4000000000005,
+    "width": 513.333333333333,
+    "x": -392.2187499999998,
+    "y": -515.6000000000004
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a76404e33fff56418b29832a433f921888d3ce97.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Screenshot-2018-6-4 Cursos Presenciales",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BAD6B050-852A-4615-8EB0-E9F765EC95FC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.718000000000001,
+      "type": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "C8D556CF-B4EA-4BF3-B150-C8B41DC4A54D",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 15,
+      "do_objectID": "DE2AAFAB-4483-42AF-8127-F692187B16F1",
+      "opacity": 1
+    },
+    "do_objectID": "CF5AF8D2-48D2-4141-9F04-44DB7BDE7A87",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

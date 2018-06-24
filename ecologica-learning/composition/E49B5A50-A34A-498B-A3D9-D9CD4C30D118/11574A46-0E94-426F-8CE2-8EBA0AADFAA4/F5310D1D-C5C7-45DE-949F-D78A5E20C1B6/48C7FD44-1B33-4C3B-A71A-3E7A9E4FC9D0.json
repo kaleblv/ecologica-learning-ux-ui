@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "48C7FD44-1B33-4C3B-A71A-3E7A9E4FC9D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82074EA2-A81E-466D-AC6E-0B519DCA87B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "871AE4A6-7F6D-4BD5-8A6C-749A2D91945A",
+    "height": 51,
+    "width": 82,
+    "x": 317,
+    "y": 32
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "user action copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEE782A1-C155-404C-BC45-B7710A1D1546",
+      "overrideName": "4E34BB45-DC63-4AC2-A617-D18D359FBA6E_stringValue",
+      "value": "Proceed to Course Detail"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5599999999999999,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1F0ABC67-F060-4BA4-8736-A603A82F2F6D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.600000000000001,
+      "type": 0
+    },
+    "do_objectID": "D8D6E3DD-312F-4B7E-BA27-1820527358B8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "170BBAD3-43A7-4D60-98DC-BE6048983B92",
+  "verticalSpacing": 0
+}

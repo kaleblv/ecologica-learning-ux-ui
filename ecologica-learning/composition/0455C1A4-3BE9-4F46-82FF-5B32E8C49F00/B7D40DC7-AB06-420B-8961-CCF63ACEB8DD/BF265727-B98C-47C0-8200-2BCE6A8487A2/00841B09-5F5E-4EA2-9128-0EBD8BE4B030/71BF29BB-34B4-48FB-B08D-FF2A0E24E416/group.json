@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "71BF29BB-34B4-48FB-B08D-FF2A0E24E416",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F427F286-40B6-46CF-90AE-D268F415B47B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AF7FD9D-FBC2-41D9-B9B9-E66C07D65442",
+    "height": 46,
+    "width": 95,
+    "x": 0.01650254041558221,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA5BABE1-4D8A-450D-9CCD-13A3930F5749"
+    },
+    {
+      "class": "bitmap",
+      "id": "C17E7DE3-5E58-447C-BC33-2459E3825D14"
+    }
+  ],
+  "name": "Screenshot-2018-6-4 Cursos Presenciales",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "46979AC9-EADB-4120-941C-31CD30D91B0A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.718000000000001,
+      "type": 0
+    },
+    "do_objectID": "6271B8A4-A6EA-4A17-B2BB-701B98C733CC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

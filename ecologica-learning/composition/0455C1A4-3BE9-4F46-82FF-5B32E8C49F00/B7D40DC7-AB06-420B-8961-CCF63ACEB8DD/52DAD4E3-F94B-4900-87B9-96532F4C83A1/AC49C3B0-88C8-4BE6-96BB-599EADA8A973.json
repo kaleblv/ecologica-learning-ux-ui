@@ -1,0 +1,64 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "AC49C3B0-88C8-4BE6-96BB-599EADA8A973",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9554CE1F-323E-4DAB-B1AA-B826513BBC00",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "605A18DB-2F4C-4852-A2C6-44B1464B800F",
+    "height": 374,
+    "width": 514,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c69589ad4837757e3c5e1e04105ee3dd01336754.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Screenshot-2018-6-5 Solicitud de cotización-1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4C8F0FB4-9615-41B7-A73F-6A4CC04E393E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.718000000000001,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 15,
+      "do_objectID": "2B8CDA89-15A6-4040-8B6F-6CA55179C52F",
+      "opacity": 1
+    },
+    "do_objectID": "5CE79D03-17FA-4278-89CF-751848BB88FF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

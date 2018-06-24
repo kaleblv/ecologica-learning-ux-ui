@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1120,
+    "height": 1090,
     "width": 1200,
     "x": 385,
     "y": 53
@@ -60,15 +60,19 @@
       "id": "14D4161A-65D2-49D3-9CE6-EF43EDF2114B"
     },
     {
-      "class": "bitmap",
-      "id": "C07E13D8-DEDE-4FBA-B261-897268C78145"
+      "class": "shapeGroup",
+      "id": "6D1B3AB4-B4EA-4DB8-ACF0-C10D512B8620"
     },
     {
       "class": "group",
       "id": "EEE0EA59-5DE9-4E82-A6E2-FD4A16898422"
+    },
+    {
+      "class": "bitmap",
+      "id": "C07E13D8-DEDE-4FBA-B261-897268C78145"
     }
   ],
-  "name": "start",
+  "name": "01-header",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

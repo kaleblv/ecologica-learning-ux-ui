@@ -1,0 +1,82 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C0C1BE29-7E99-4D27-84E1-AA7A47E97AC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F4218EE7-9839-4146-9FC7-19B63760F1B9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BE6F8ED4-D5F2-48C9-8BC8-9B8079DCC319",
+    "height": 687.3201783303728,
+    "width": 509.9756489607389,
+    "x": -389.6532692840644,
+    "y": -513.2999477797513
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a76404e33fff56418b29832a433f921888d3ce97.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Screenshot-2018-6-4 Cursos Presenciales",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3A6B114C-D8A8-4B13-BA7A-31871861F6F0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.718000000000001,
+      "type": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "45C89033-B6FC-45A2-A532-B6E238E0A5B6",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 15,
+      "do_objectID": "79794610-2EBC-4D6D-81FD-07E8CCD72533",
+      "opacity": 1
+    },
+    "do_objectID": "D990E099-5961-4566-9233-522884E8B693",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

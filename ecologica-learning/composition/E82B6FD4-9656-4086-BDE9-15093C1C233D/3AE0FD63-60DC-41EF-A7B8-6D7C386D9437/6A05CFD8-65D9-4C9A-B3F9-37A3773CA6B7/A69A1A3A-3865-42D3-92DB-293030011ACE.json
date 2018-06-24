@@ -17,8 +17,8 @@
     "constrainProportions": true,
     "height": 1029,
     "width": 811,
-    "x": 2,
-    "y": 92
+    "x": 0,
+    "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",

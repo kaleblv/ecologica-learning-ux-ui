@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 803,
-    "width": 1170,
-    "x": 15,
-    "y": 336
+    "height": 683,
+    "width": 1349,
+    "x": -77,
+    "y": 328
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/9ff3e5f1b632229e163d7f2880b6fba4cced8d70.png",
+    "_ref": "images/d641c7b77ac45da1f3da29d32d31a6e724f7fdc3.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
